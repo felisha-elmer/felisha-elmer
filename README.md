@@ -1,119 +1,145 @@
 <div align="center">
 
 # Felisha Elmer
-### IT & Cybersecurity | Cyber Defender | Spokane, WA
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=922B21&center=true&vCenter=true&width=500&lines=Cyber+Defender+%7C+IT+%26+Cybersecurity;Digital+Forensics+%7C+Network+Security;Protecting+Kids+Online+%7C+GetEmTigress;A.A.S+IT%2FCybersecurity+%7C+GPA+3.99)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&duration=3000&pause=1000&color=22C55E&center=true&vCenter=true&width=600&lines=Cyber+Defender+%7C+CTF+Competitor;NCL+Diamond+%E2%80%94+81st+Percentile+(Exp.+Bracket);NCL+Platinum+%E2%80%94+86th+Percentile;Scanning+%26+Recon+%7C+Forensics+%7C+OSINT;Founder+%E2%80%94+PixelGuard+Foundation)](https://git.io/typing-svg)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-felisha--elmer-22C55E?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/felisha-elmer)
+[![Email](https://img.shields.io/badge/Email-felishaelmer%40gmail.com-22C55E?style=for-the-badge&logo=gmail&logoColor=white)](mailto:felishaelmer@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-felishaelmer.dev-22C55E?style=for-the-badge&logo=firefox&logoColor=white)](https://felishaelmer.dev)
+[![PixelGuard](https://img.shields.io/badge/Nonprofit-pixelguard.org-22C55E?style=for-the-badge&logo=firefox&logoColor=white)](https://pixelguard.org)
 
 </div>
 
 ---
 
-## 🩸 About Me
-
 ```bash
-
+$ whoami
 felisha-elmer
 
-
-> Cybersecurity student @ Spokane Falls Community College
-> A.A.S. IT/Cybersecurity — Cyber Defender Emphasis (Spring 2026)
-> GPA: 3.99 | President's List
-> Lab Technician — SFCC IT Department
-> VP — Applied Technologies Club
-> Founder — GetEmTigress (nonprofit, in development)
-> Mission: Protecting children in online gaming environments
+$ cat about.txt
+IT & Cybersecurity student — SFCC, Spokane WA
+A.A.S. Cybersecurity (Cyber Defender) — Graduating Spring 2026
+President's List | 3.99 GPA
+Lab Tech & Work Study | VP, Applied Technologies Club
+NCL Competitor: Diamond | Platinum | Gold | Active Spring 2026
+Founder: PixelGuard Foundation (WA Nonprofit, est. May 2025)
 ```
 
 ---
 
-## 🛡️ Technical Skills
-
-<div align="center">
-
-| Defense & SOC | Network Security | Forensics |
-|:---:|:---:|:---:|
-| SIEM / Splunk | Wireshark | Memory Forensics |
-| Kibana | pfSense | Registry Analysis |
-| Suricata IDS | VPN Config | Chain of Custody |
-| Log Analysis | Pen Testing | Malware Analysis |
-| Incident Response | Nmap / Recon | Cyberbit Labs |
-
-| Systems | Scripting | Cloud & Web |
-|:---:|:---:|:---:|
-| Linux (Kali/Ubuntu) | Bash | AWS (in progress) |
-| Windows Server | Python | SQL Injection |
-| Active Directory | Batch/CMD | IAM Concepts |
-| System Imaging | Shell Scripting | Secure Cloud Config |
-
-</div>
+## 🏆 CTF Competitions
 
 ---
 
-## 📂 Featured Projects
+### National Cyber League (NCL)
 
-### 🔴 Malicious Network Traffic Analysis
-> Analyzed packet captures to identify attack patterns, IOCs, and lateral movement in a simulated enterprise environment. Produced formal incident reports.
-> `Wireshark` `PCAP` `IOC Documentation` `IS141`
+> The NCL Scouting Report is a verified skills credential recognized by cybersecurity employers nationwide.
 
-### 🔴 Memory Forensics — Daniel-PC
-> Full memory forensic investigation on a compromised Windows system. Extracted artifacts, identified malicious processes, documented findings with chain of custody.
-> `Memory Analysis` `Registry Forensics` `Chain of Custody` `IS241`
+| Season | Format | Tier | Percentile | Top Category |
+|--------|--------|------|-----------|--------------|
+| Fall 2025 | Team | 💎 **DIAMOND** | **81st** ⚠️ *Experienced Students Bracket* | Scanning & Recon — 94th |
+| Spring 2025 | Team | 🥇 **GOLD** | **91st** | OSINT — 95th |
+| Spring 2025 | Individual | 🪙 **PLATINUM** | **86th** | Password Cracking — 94th |
+| Fall 2025 | Individual | 🥇 **GOLD** | **71st** | Web App Exploitation — 80th |
+| Spring 2026 | Individual + Team | 🟢 **ACTIVE** | Season in progress | — |
 
-### 🔴 pfSense Firewall Penetration Testing
-> Configured and penetration-tested a pfSense firewall environment. Identified misconfigurations, exploited a simulated VPN, documented findings with remediation steps.
-> `pfSense` `VPN` `Nmap` `Pen Testing` `IS244`
+> ⚠️ The Fall 2025 Team Diamond was earned in the **Experienced Students Bracket** — placing me against competitors with advanced degrees and industry experience. Finishing 81st percentile at that level is what I'm most proud of in my competitive record.
 
-### 🔴 Kibana & Splunk Security Monitoring
-> Built Kibana dashboards for security event visualization. Completed Splunk lab exercises for log ingestion, alerting, and threat hunting.
-> `Kibana` `Splunk` `Log Analysis` `SIEM` `IS245`
-
-### 🔴 Linux Scripting & Automation
-> Developed Bash scripts for login failure monitoring, arithmetic automation, and system tasks. Python utilities for IT automation.
-> `Bash` `Python` `Linux` `Kali` `IS125`
+**Strongest Skills (by NCL percentile)**
+- OSINT — 95th percentile
+- Scanning & Recon — 94th (Ind.) · 94th (Team)
+- Password Cracking — 94th percentile
+- Network Traffic Analysis — 93rd percentile
+- Log Analysis — 93rd percentile
+- Cryptography — 91st percentile
+- Web App Exploitation — 88th (Ind.) · 85th (Team)
 
 ---
 
-## 🎯 Certifications
+### CTF@CIT
 
-| Certification | Status |
+| Event | Team | Place | Total Points |
+|-------|------|-------|-------------|
+| CTF@CIT | SFCC Encryptids | 275th | 8,923 pts |
+
+| Member | Role | Score |
+|--------|------|-------|
+| GetEmTiger | Captain | **5,327 pts** |
+| quickdraw-outlaw | Member | 1,829 pts |
+| sezioN | Member | 1,767 pts |
+
+> Captain · contributed 60% of the team's total score
+
+---
+
+## 🔧 Technical Skills
+
+**Offense & CTF**
+`Web App Exploitation` `Password Cracking` `Scanning & Recon` `OSINT` `SQL Injection` `Enumeration` `Burp Suite` `Nmap` `Hashcat`
+
+**Defense & SOC**
+`Network Traffic Analysis` `Wireshark` `Log Analysis` `SIEM` `Incident Response` `Memory Forensics` `Suricata` `Splunk` `Kibana`
+
+**Infrastructure**
+`pfSense` `VPN Config` `Linux (Kali/Ubuntu)` `Windows Server` `Active Directory` `Virtualization`
+
+**Scripting**
+`Bash` `Python` `PowerShell` `Batch` `Git`
+
+---
+
+## 📁 Featured Projects
+
+### 🟢 Penetration Testing — pfSense Firewall
+Full pentest against pfSense in a controlled lab: recon, exploitation, and remediation reporting.
+`Kali Linux` `pfSense` `Network Security` `IS244`
+
+### 🟢 Network Traffic Analysis — Wireshark
+Captured and analyzed malicious traffic. Produced incident triage reports with IOC documentation.
+`Wireshark` `Incident Response` `IS241`
+
+### 🟢 SIEM Lab — Splunk & Kibana
+Built log ingestion pipelines, detection rules, and threat hunting dashboards.
+`Splunk` `Kibana` `Log Analysis` `IS245`
+
+### 🟢 Memory Forensics — Incident Investigation
+Full forensic analysis of compromised system image. Chain-of-custody and legal-ready investigation report.
+`Volatility` `Memory Forensics` `IS234`
+
+### 🟢 Bash Scripting — Security Automation
+Login failure monitoring scripts, system audit tools, and Python IT utilities.
+`Bash` `Python` `Linux` `IS125`
+
+---
+
+## 🎓 Education & Certifications
+
+| | |
 |---|---|
-| CompTIA Security+ | 🟡 In Progress — 2026 |
-| AWS Cloud Practitioner | 🟡 In Progress — 2026 |
-| A.A.S. IT/Cybersecurity — Cyber Defender | 🔴 Spring 2026 |
-| B.A.S. Cybersecurity | 🔴 2026–2028 |
+| A.A.S. IT/Cybersecurity — Cyber Defender | SFCC · Spring 2026 · 3.99 GPA |
+| B.A.S. Cybersecurity | SFCC · Fall 2026 (continuing) |
+| CompTIA Security+ | In Progress — 2026 |
+| AWS Cloud Practitioner | In Progress — 2026 |
 
 ---
 
-## 🐯 PixelGuard Foundation — Founder & Executive Director
+## 🐯 PixelGuard Foundation
 
-> **Incorporated:** May 2, 2025 | Washington State Nonprofit Corporation | UBI: 605 885 357
->
-> **Mission:** Protecting children from predatory behavior, grooming, and exploitation in online gaming environments. Combining cybersecurity expertise with community education to create tools and resources for families and gaming communities.
->
-> 🌐 [pixelguard.org](https://pixelguard.org)
+**Mission:** Online safety in gaming environments — protecting children from predatory behavior, grooming, and exploitation.
 
-*A tigeress protects her cubs. So do I. — GetEmTigress*
+Legally incorporated Washington State nonprofit · UBI: 605 885 357 · Founded May 2025
 
----
+*A tigeress protects her cubs. So do I.*
 
-## 📡 Connect
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-felisha--elmer-922B21?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/felisha-elmer)
-[![Email](https://img.shields.io/badge/Email-felishaelmer%40gmail.com-922B21?style=for-the-badge&logo=gmail&logoColor=white)](mailto:felishaelmer@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-felishaelmer.dev-922B21?style=for-the-badge&logo=firefox&logoColor=white)](https://felishaelmer.dev)
-[![PixelGuard](https://img.shields.io/badge/Nonprofit-pixelguard.org-922B21?style=for-the-badge&logo=firefox&logoColor=white)](https://pixelguard.org)
-
-</div>
+🌐 [pixelguard.org](https://pixelguard.org)
 
 ---
 
 <div align="center">
 
-*"The quieter you become, the more you are able to hear."* — Kali Linux
+*"A Tigress always protects her cubs."* — GetEmTigress
 
-![](https://komarev.com/ghpvc/?username=felisha-elmer&color=922B21&style=flat-square)
+![](https://komarev.com/ghpvc/?username=felisha-elmer&color=22C55E&style=flat-square)
 
 </div>
