@@ -21,7 +21,7 @@ felisha-elmer
 > GPA: 3.99 | President's List
 > Lab Technician — SFCC IT Department
 > VP — Applied Technologies Club
-> Founder — GetEmTigress (nonprofit, in development)
+> Founder — PixelGuard Foundation
 > Mission: Protecting children in online gaming environments
 ```
 
