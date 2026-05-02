@@ -69,7 +69,6 @@ Founder: PixelGuard Foundation (WA Nonprofit, est. May 2025)
 | quickdraw-outlaw | Member | 1,829 pts |
 | sezioN | Member | 1,767 pts |
 
-> Captain · contributed 60% of the team's total score
 
 ---
 
