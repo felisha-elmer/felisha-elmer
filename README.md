@@ -21,7 +21,7 @@ felisha-elmer
 > GPA: 3.99 | President's List
 > Lab Technician — SFCC IT Department
 > VP — Applied Technologies Club
-> Founder — PixelGuard Foundation
+> Founder — GetEmTigress (nonprofit, in development)
 > Mission: Protecting children in online gaming environments
 ```
 
@@ -104,6 +104,7 @@ felisha-elmer
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-felisha--elmer-922B21?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/felisha-elmer)
 [![Email](https://img.shields.io/badge/Email-felishaelmer%40gmail.com-922B21?style=for-the-badge&logo=gmail&logoColor=white)](mailto:felishaelmer@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-felishaelmer.dev-922B21?style=for-the-badge&logo=firefox&logoColor=white)](https://felishaelmer.dev)
+[![PixelGuard](https://img.shields.io/badge/Nonprofit-pixelguard.org-922B21?style=for-the-badge&logo=firefox&logoColor=white)](https://pixelguard.org)
 
 </div>
 
