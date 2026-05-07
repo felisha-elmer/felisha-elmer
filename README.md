@@ -5,7 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&duration=3000&pause=1000&color=22C55E&center=true&vCenter=true&width=600&lines=Cyber+Defender+%7C+CTF+Competitor;NCL+Diamond+%E2%80%94+81st+Percentile+(Exp.+Bracket);NCL+Platinum+%E2%80%94+86th+Percentile;Scanning+%26+Recon+%7C+Forensics+%7C+OSINT;Founder+%E2%80%94+PixelGuard+Foundation)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-felisha--elmer-22C55E?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/felisha-elmer)
-[![Email](https://img.shields.io/badge/Email-felishaelmer%40gmail.com-22C55E?style=for-the-badge&logo=gmail&logoColor=white)](mailto:felishaelmer@gmail.com)
+[![Email](https://img.shields.io/badge/Email-felishaelmer%40gmail.com-22C55E?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elmer.felisha26@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-felishaelmer.dev-22C55E?style=for-the-badge&logo=firefox&logoColor=white)](https://felishaelmer.dev)
 [![PixelGuard](https://img.shields.io/badge/Nonprofit-pixelguard.org-22C55E?style=for-the-badge&logo=firefox&logoColor=white)](https://pixelguard.org)
 
